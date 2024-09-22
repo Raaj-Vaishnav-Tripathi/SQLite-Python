@@ -1,0 +1,5 @@
+# Logging level (options: debug, info, warning, error)
+logging_level: info
+
+# Default database file
+default_database: sample.db
